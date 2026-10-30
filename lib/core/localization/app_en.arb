@@ -1,0 +1,45 @@
+{
+  "@@locale": "en",
+
+  "appName": "My Profile",
+  "@appName": {
+    "description": "App name used in AppBar and Splash"
+  },
+
+  "welcome": "Welcome",
+  "login": "Login",
+  "username": "Username",
+  "password": "Password",
+  "loginButton": "Login",
+  "logout": "Logout",
+
+  "todo": "Tasks",
+  "periodTracker": "Period",
+  "profile": "Profile",
+  "timer": "Timer",
+  "chat": "Chat",
+
+  "chronometer": "Chronometer",
+  "stopwatch": "Stopwatch",
+  "start": "Start",
+  "stop": "Stop",
+  "reset": "Reset",
+  "pause": "Pause",
+  "resume": "Resume",
+
+  "comingSoon": "Coming Soon",
+  "chatNotAvailable": "Chat is not available yet",
+
+  "settings": "Settings",
+  "theme": "Theme",
+  "lightMode": "Light mode",
+  "darkMode": "Dark mode",
+  "language": "Language",
+  "persian": "Persian",
+  "english": "English",
+
+  "errorGeneric": "An error occurred",
+  "invalidCredentials": "Invalid username or password",
+  "usernameRequired": "Username is required",
+  "passwordRequired": "Password is required"
+}

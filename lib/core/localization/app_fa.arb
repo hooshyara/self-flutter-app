@@ -1,0 +1,45 @@
+{
+  "@@locale": "fa",
+
+  "appName": "پروفایل من",
+  "@appName": {
+    "description": "نام اپ که در AppBar و Splash استفاده می‌شود"
+  },
+
+  "welcome": "خوش آمدی",
+  "login": "ورود",
+  "username": "نام کاربری",
+  "password": "رمز عبور",
+  "loginButton": "ورود به اپ",
+  "logout": "خروج",
+
+  "todo": "کارها",
+  "periodTracker": "پریود",
+  "profile": "پروفایل",
+  "timer": "تایمر",
+  "chat": "چت",
+
+  "chronometer": "کرنومتر",
+  "stopwatch": "زمان‌سنج",
+  "start": "شروع",
+  "stop": "توقف",
+  "reset": "بازنشانی",
+  "pause": "مکث",
+  "resume": "ادامه",
+
+  "comingSoon": "به‌زودی",
+  "chatNotAvailable": "چت هنوز فعال نشده",
+
+  "settings": "تنظیمات",
+  "theme": "تم",
+  "lightMode": "حالت روشن",
+  "darkMode": "حالت تاریک",
+  "language": "زبان",
+  "persian": "فارسی",
+  "english": "انگلیسی",
+
+  "errorGeneric": "خطایی رخ داد",
+  "invalidCredentials": "نام کاربری یا رمز عبور اشتباه است",
+  "usernameRequired": "نام کاربری الزامی است",
+  "passwordRequired": "رمز عبور الزامی است"
+}
